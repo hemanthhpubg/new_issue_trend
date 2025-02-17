@@ -1,8 +1,5 @@
 import streamlit as st
 import pandas as pd
-from datetime import datetime
-import matplotlib.pyplot as plt
-import seaborn as sns
 import plotly.graph_objects as go
 
 def plot_new_issue_trend(df):
